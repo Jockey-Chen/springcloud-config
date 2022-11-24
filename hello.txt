@@ -1,5 +1,0 @@
-Hello world!
-version3.0
-master
-update on browser!!!
-这是一个通用配置文件！
